@@ -1,0 +1,28 @@
+@charset "utf-8";
+.Header {
+	font-family: Tahoma;
+	color: #FFF;
+	background-color: #000;
+	margin: 10px;
+	padding: 10px;
+	height: 100px;
+	width: auto;
+}
+.Section {
+	font-family: Tahoma;
+	color: #000;
+	background-color: #CCC;
+	margin: auto;
+	padding: 10px;
+	height: 1000px;
+	width: 1300px;
+}
+.Footer {
+	font-family: Tahoma;
+	color: #FFF;
+	background-color: #000;
+	margin: 10px;
+	padding: 10px;
+	height: 100px;
+	width: auto;
+}
